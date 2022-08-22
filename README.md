@@ -2,31 +2,6 @@
 
 [Angular](https://angular.io/) cron widget built from the ground up using only [Bootstrap 4](https://getbootstrap.com/) CSS.
 
-Please check our [demo & documentation](https://ngcron.emptyui.com/) and the list of
-[issues](https://github.com/ua-cron/angular/issues) to see all the things we are working on. Feel free to make comments there.
-
-<p align="center">
-	<a href="https://ngcron.emptyui.com/">
-		<img
-			width="200"
-			src="https://res.cloudinary.com/dwkakr4wt/image/upload/v1661086526/cron/ngcron.png"
-			alt="ng-cron">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://badge.fury.io/js/%40sbzen%2Fng-cron">
-		<img
-			src="https://badge.fury.io/js/%40sbzen%2Fng-cron.svg"
-			alt="npm version">
-	</a>
-	<a href="https://npmjs.org/%40sbzen%2Fng-cron">
-		<img
-			src="https://img.shields.io/npm/dm/%40sbzen%2Fng-cron.svg"
-			alt="npm downloads">
-	</a>
-</p>
-
 ## Getting Started
 
 This is an open source project that builds a cron builder component for Angular applications.
